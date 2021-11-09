@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/article-preview-component-with-css-and-js-ziz6Gu1nX)
 - Live Site URL: [Add live site URL here](https://placoderm.github.io/Article-preview-component/)
 
 ## My process
