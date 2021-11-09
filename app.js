@@ -18,3 +18,15 @@ shareButtonMobile.addEventListener("click", event => {
         sharePanel.style.display = "none";
     }
 });
+
+const socialIcons = document.querySelectorAll(".soc-icons");
+socialIcons.forEach(socialIcon => {
+    socialIcon.addEventListener("click", event => {
+        console.log("close by clicking on social icon");
+        if (sharePanel.style.display === "none") {
+            sharePanel.style.display = "flex";
+        } else {
+            sharePanel.style.display = "none";
+        }
+    });
+});
